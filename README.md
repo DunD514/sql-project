@@ -1,7 +1,4 @@
-Got it 👍 — here’s a **clean, recruiter-friendly version** with **limited, tasteful emojis** (used only at section headers).
-This keeps it professional while still visually engaging.
 
-You can copy–paste this directly into `README.md`.
 
 ---
 
@@ -227,12 +224,4 @@ This repository showcases strong SQL fundamentals, business-oriented analytical 
 * Role comparison (Data Analyst vs Data Scientist)
 * Geographic compensation breakdown
 
----
 
-If you want next:
-
-* Resume-ready bullet points
-* ATS-optimized project summary
-* LinkedIn project description
-
-This README is now **clean, professional, GitHub-safe, and recruiter-ready**.
